@@ -1,8 +1,3 @@
-"""
-app.py (Streamlit)
-Frontend que consome a API FastAPI.
-Versão aprimorada com cabeçalho, colunas, expansores, cores customizadas e emojis.
-"""
 
 import streamlit as st
 import requests
